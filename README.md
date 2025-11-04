@@ -129,12 +129,6 @@ This project is licensed under the MIT License.
 - **YFinanceTools:** For reliable financial data APIs.
 - **Streamlit:** For seamless deployment.
 
-## **Contact**
-
-- **Author:** Ritesh Kumar Singh
-- **Portfolio:** [itsritz.my.canva.site](https://itsritz.my.canva.site)
-- **LinkedIn:** [Ritesh Kumar Singh](https://www.linkedin.com/in/ritesh001/)
-- **GitHub:** [itsritzz](https://github.com/itsritzz)
 
 ---
 
